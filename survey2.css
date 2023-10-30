@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(176, 61, 182);
+    margin-top:20px;
+    border:4px white;
+    border-style: solid;
+
+}
+.div1{
+    height: 400px;
+    width:200px;
+    margin-left:600px;
+    margin-top:40px;
+}
+.abc{
+    width:230px;
+    color:white;
+    background-color: blue;
+    font-weight:bold;
+}
+legend{
+    display: block;
+    border:none;
+    background-color: blue;
+    font-weight: bolder;
+    color:white;
+    font-style: italic;
+}
+
+div.pump{
+    position:absolute;
+    margin-top:40px;
+    color: antiquewhite;
+    font-size: 55px;
+    margin-left: 190px;
+}
+fieldset{
+    background-color:white;
+}
